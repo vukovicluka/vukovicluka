@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @vukovicluka
+- 👀 I’m interested in WEB and mobile software development
+- 🌱 I’m currently learning Flutter
+- 💞️ I’m looking to collaborate on WEB (ReactJS) and mobile projects (React Native, Flutter)
+- 📫 Send me an email: vukovicluka227@gmail.com
