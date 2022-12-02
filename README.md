@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @vukovicluka
 - 👀 I’m interested in WEB and mobile software development
-- 🌱 I’m currently working as a full-stack WEB developer, in my free time I'm learning Flutter
-- 💞️ I’m looking to collaborate on WEB (ReactJS/Node.js) and mobile projects (React Native, Flutter)
+- 🌱 I’m working as a full-stack WEB developer. In my free time I'm exploring new technologies, currently learning Flutter
+- 💞️ I’m looking to collaborate on WEB and mobile projects
+- 📚 My tech stack includes: ReactJS (NextJS, React Native), NodeJS (Express, Nest) and Flutter
 - 📫 Send me an email: vukovicluka227@gmail.com
